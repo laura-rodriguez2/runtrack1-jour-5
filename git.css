@@ -1,0 +1,15 @@
+table{
+    border-collapse: collapse;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 217, 199);
+}
+
+td{
+    border: 3px solid rgb(255, 204, 175);
+    padding: 10px;
+}
+body{
+    background-color: rgb(233, 97, 0);
+    display: flex;
+    justify-content: center;
+}
